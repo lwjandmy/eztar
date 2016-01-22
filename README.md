@@ -1,5 +1,5 @@
 # eztar
-An easy tool to tar,gzip,etc. files.
+An easy way to use tar,gzip,etc. files.
 
 
 ## Get & Install
