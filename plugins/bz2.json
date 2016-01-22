@@ -1,0 +1,4 @@
+{
+	"compress_command": "bzip2 -k {IN}",
+	"decompress_command": "bzip2 -k -d {IN}"
+}

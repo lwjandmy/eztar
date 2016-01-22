@@ -1,0 +1,4 @@
+{
+  "compress_command":  "xz -k {IN}",
+  "decompress_command": "xz -k -d {IN}"
+}

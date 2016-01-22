@@ -1,0 +1,4 @@
+{
+  "compress_command":  "",
+  "decompress_command": "unrar x {IN}"
+}

@@ -1,0 +1,4 @@
+{
+	"compress_command": "7z a {OUT} {IN}",
+	"decompress_command": "7z x {IN}"
+}

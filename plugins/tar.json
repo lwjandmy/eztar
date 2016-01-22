@@ -1,0 +1,4 @@
+{
+  "compress_command":  "tar cf {OUT} {IN}",
+  "decompress_command": "tar xf {IN}"
+}

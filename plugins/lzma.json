@@ -1,0 +1,4 @@
+{
+  "compress_command":  "lzma -k {IN}",
+  "decompress_command": "lzma -k -d {IN}"
+}

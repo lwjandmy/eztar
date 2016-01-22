@@ -1,0 +1,4 @@
+{
+  "compress_command":  "zip {OUT} {IN}",
+  "decompress_command": "unzip {IN}"
+}

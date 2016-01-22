@@ -1,0 +1,4 @@
+{
+	"compress_command": "gzip -k {IN}",
+	"decompress_command": "gzip -k -d {IN}"
+}

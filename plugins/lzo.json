@@ -1,0 +1,4 @@
+{
+  "compress_command":  "lzop {IN}",
+  "decompress_command": "lzop -d {IN}"
+}

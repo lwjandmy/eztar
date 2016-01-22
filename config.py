@@ -1,0 +1,1 @@
+plugins_path = '/home/li/PycharmProjects/eztar/plugins/'
