@@ -32,6 +32,16 @@ eztar data.tar
 eztar data.tar  (yes, there are same command string)
 
 
+## Some tricks
+### To create 'tree.tar.gz' from 'tree' directory:
+
+eztar tree.tar tree.tar.gz
+
+### To decompress 'tree' directory from 'tree.tar'gz':
+
+eztar tree.tar.gz tree.tar
+
+
 ## How it works
 When we type 'eztar data.tar', eztar will check if 'data.tar' file exist, if exist, do decompress; if not exist, do compress. 
 ### compress
