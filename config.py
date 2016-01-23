@@ -1,1 +1,1 @@
-plugins_path = '/home/li/PycharmProjects/eztar/plugins/'
+plugins_path = '/usr/local/lib/eztar/plugins/'
