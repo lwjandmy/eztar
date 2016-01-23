@@ -10,6 +10,11 @@ cd eztar
 sudo ./install.sh
 
 
+## Requirement
+Python3
+tar, gzip, etc. (options)
+
+
 ## Usage
 ### To get help:
 
