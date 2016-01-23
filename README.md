@@ -2,16 +2,19 @@
 An easy way to use tar,gzip,etc. files.
 
 
-## Get & Install
+## Get & Install & UnInstall
 git clone git@github.com:lwjandmy/eztar.git
 
 cd eztar
 
 sudo ./install.sh
 
+sudo ./uninstall.sh
+
 
 ## Requirement
 Python3
+
 tar, gzip, etc. (options)
 
 
